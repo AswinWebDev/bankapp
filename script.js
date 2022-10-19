@@ -232,4 +232,4 @@ btnSort.addEventListener('click', function (e) {
   displayMovements(currentAccount.movements, !sorted);
   sorted = !sorted;
 });
-console.log('Ok');
+console.log('Ok-Test is working');
